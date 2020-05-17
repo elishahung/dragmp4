@@ -1,0 +1,1 @@
+pyinstaller dragmp4.spec
